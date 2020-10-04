@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sarita"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Researcher, Pianist"
+  name             : "Dr. Sarita"
+  avatar           : "/assets/images/profile_img.jpg"
+  bio              : "Postdoctoral Researcher, Biochemist, Protein folding, Pianist"
   location         : "Taipei,Taiwan"
-  email            :
+  email            :  "saritapuri24@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
